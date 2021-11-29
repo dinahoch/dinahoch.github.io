@@ -3,5 +3,5 @@
 
 # Check out my other pages:
 1. [Exercism](https://dinahoch.github.io/Exercism)
-1. [HTML](https://github.com/dinahoch/dinahoch.github.io/Docs)
+1. [HTML](https://dinahoch.github.io/Docs)
 
